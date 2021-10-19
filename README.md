@@ -1,2 +1,1 @@
-# expense_planner_application
-
+# expense_planner_app
