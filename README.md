@@ -1,16 +1,21 @@
-# expense_planner_udemy
+# personal_expenses_tracker
 
-A new Flutter application.
+• User can add any of his personal expenses with title, amount and date which is displayed using a responsive UI.
 
-## Getting Started
+• A list of expenses is displayed alongwith weekly chart bars(Graphical View) which is constantly updated every week.
+ 
+• "Custom Transaction User Class, Stateful Widgets, Datepicker" are some of the features of the application.
 
-This project is a starting point for a Flutter application.
+• Tech stack used: Android, Flutter, Dart
 
-A few resources to get you started if this is your first Flutter project:
+• See working demo below 👇
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![1634999656760](https://user-images.githubusercontent.com/62439428/138560789-b45a473d-940d-4d44-9312-3e48f704226d.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1634999656743](https://user-images.githubusercontent.com/62439428/138560787-8faacdb9-a5f4-4dfb-a0d0-90ca69b22774.jpg)
+
+![1634999656727](https://user-images.githubusercontent.com/62439428/138560839-8ae1436b-f3b3-4aee-a5a6-eb47048ce393.jpg)
+
+https://user-images.githubusercontent.com/62439428/138560793-b835ee8d-4252-4166-9650-99212ef535b8.mp4
+
+
